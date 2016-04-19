@@ -23,7 +23,7 @@
         "ext-mbstring": "*",
         "ext-fileinfo": "*",
         "composer/installers": "*",
-        "fingoweb/transit": "*@dev"
+        "fingoweb/transit": "2.0.1"
     },
     "suggest": {
         "ext-gd": "Enable the GD library for image transforming",
